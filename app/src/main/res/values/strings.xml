@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="playerName">PLAYER NAME</string>
+    <string name="startButton">START</string>
+    <string name="header">ENTER YOUR PLAYER ID</string>
+
+    <string name="title_activity_question">QUESTION</string>
+    <string name="Question1">1. What is the only country through which both the equator and the Tropic of Capricorn pass?</string>
+    <string name="option1A">Brazil</string>
+    <string name="option1B">Philadephia</string>
+    <string name="option1C">Russia</string>
+    <string name="option1D">China</string>
+
+    <string name="Question2">2. Which two countries are joined by the Bridge of No Return?</string>
+    <string name="option2A">North Korea</string>
+    <string name="option2B">Bangladesh</string>
+    <string name="option2C">South Korea</string>
+
+    <string name="Question3">3. Which insect develops through these stages?</string>
+    <string name="hintAnswer3">Answer:</string>
+    <string name="Answer3"></string>
+
+    <string name="Question4">4. What is a nickname for New York City</string>
+    <string name="option4A">The Rhodes Island</string>
+    <string name="option4B">The Liberty Life</string>
+    <string name="option4C">The Big Apple</string>
+    <string name="option4D">The Great Island</string>
+
+    <string name="SUBMIT">SUBMIT</string>
+
+</resources>
